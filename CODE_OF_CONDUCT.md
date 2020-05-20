@@ -11,14 +11,35 @@ appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
+This project has adopted a code of conduct for those that participate
+in our Corona fighting effort; be it on Github, in issues, in pull request,
+on mailing lists, Slack code-for-nl and other modes of communication within 
+this project.
+
 Examples of behavior that contributes to creating a positive environment
 include:
 
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
+  * In a project this size, inevitably there will be people with 
+whom you may disagree, or find it difficult to cooperate. Accept that, 
+but even so, remain respectful. Disagreement is no excuse for poor 
+behaviour or personal attacks, and a community in which people feel 
+threatened is not a healthy community.
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
+  * This is a large and complex project; there is always more to learn. It's good to ask for help when you need it. Similarly, 
+offers for help should be seen in the context of our shared goal of improving our solution. When you make something for the benefit of the project, be willing to explain to others how it works, so that they can build on your work to make it even better.
 * Showing empathy towards other community members
+* Assume good faith
+  * Contributors have many ways of reaching our common goal of 'fighting Corona'. Assume that
+other people are working towards this goal.
+* Try to be concise
+  * Keep in mind that what you write once will be read by hundreds of 
+persons. Writing a short message means people can understand the 
+conversation as efficiently as possible. When a long explanation is 
+necessary, consider adding a summary. Try to bring new arguments to a conversation so that each message adds something unique to the thread, keeping in mind that the rest of the thread still contains the other messages with arguments that have already been made. Try to stay on topic, especially in discussions that are already fairly large.
+
 
 Examples of unacceptable behavior by participants include:
 
@@ -68,7 +89,7 @@ members of the project's leadership.
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html and [Redwax Code of conduct](https://redwax.eu/licenses/CoC.txt).
 
 [homepage]: https://www.contributor-covenant.org
 
