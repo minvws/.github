@@ -3,23 +3,23 @@ name: Report a bug, issue or concern
 about: Use this template for tor submitting issues
 title: "[DATE]: [VWS/CornaTracingApp]"
 ---
-**Describe the bug, issue or concern**
+### Describe the bug, issue or concern
 
 A clear and concise description of what the bug, issue or concern is is.
 
 E.g. 
 
-**To Reproduce**
+### To Reproduce
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+### Expected behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+### Screenshots
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
@@ -33,11 +33,11 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
+### Additional context
 Add any other context about the problem here.
 
-** Governance **
-[ ] I've read the contributing document https://github.com/minvws/nl-contact-tracing-app-coordination/blob/master/CONTRIBUTING.md
-[ ] I've read and understand the Code of Conduct https://github.com/minvws/.github/blob/master/CODE_OF_CONDUCT.md
-[ ] I understand that any contributions or suggestions I made may make it into the actual code. I've read the License https://github.com/minvws/nl-contact-tracing-app-coordination/blob/master/eupl_v1.2_en.txt and the contributor license agreement https://github.com/minvws/nl-contact-tracing-app-coordination/blob/master/CLA.md
+### Governance
+- [ ] I've read the contributing document https://github.com/minvws/nl-contact-tracing-app-coordination/blob/master/CONTRIBUTING.md
+- [ ] I've read and understand the Code of Conduct https://github.com/minvws/.github/blob/master/CODE_OF_CONDUCT.md
+- [ ] I understand that any contributions or suggestions I made may make it into the actual code. I've read the License https://github.com/minvws/nl-contact-tracing-app-coordination/blob/master/eupl_v1.2_en.txt and the contributor license agreement https://github.com/minvws/nl-contact-tracing-app-coordination/blob/master/CLA.md
  
