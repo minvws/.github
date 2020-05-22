@@ -4,7 +4,7 @@ The security of our systems is top priority. No  matter how much effort we put i
 
 ## Please do the following:
 
-Submit your findings by using the following URL: https://github.com/minvws/nl-contact-tracing-app-coordination/security
+Submit your findings by using the following URL: https://github.com/minvws/nl-covid19-notification-app-coordination/security
 
 or, if the issue is particularly sensitive, via the Dutch Government GOV-CERT:
 
