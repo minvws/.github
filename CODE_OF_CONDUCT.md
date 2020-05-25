@@ -13,7 +13,7 @@ appearance, race, religion, or sexual identity and orientation.
 
 This project has adopted a code of conduct for those that participate
 in our Corona fighting effort; be it on Github, in issues, in pull request,
-on mailing lists, Slack code-for-nl and other modes of communication within 
+on mailing lists and other modes of communication within 
 this project.
 
 Examples of behavior that contributes to creating a positive environment
