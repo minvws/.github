@@ -1,7 +1,6 @@
 ---
 name: Report a bug, issue or concern
 about: Use this template for tor submitting issues
-title: "[DATE]: [VWS/Covid19NotificationApp]"
 ---
 ### Describe the bug, issue or concern
 
