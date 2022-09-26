@@ -27,7 +27,7 @@ If you have questions about one of the issues, please comment on them, and one o
  
 ## Contributing Code or Documentation
  
-You are welcome to contribute code or documentation. Please read and sign the CLA before contributing. 
+You are welcome to contribute code or documentation. Please read and sign the [Contributer License Agreement (CLA)](https://github.com/minvws/nl-covid19-notification-app-coordination/blob/master/CLA.md) before contributing. 
  
 ## Pull Request Checklist
  
