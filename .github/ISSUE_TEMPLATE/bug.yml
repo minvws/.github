@@ -1,0 +1,58 @@
+name: Report a Bug
+description: You found a bug within a public minVWS repository? Use this to let the team know, please try to fill in this form as much as possible.
+labels: ['needs verification']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hello, thank you for filing an issue. Please ensure the following things before creating an issue:
+
+        :heavy_check_mark: this clearly is not a Feature Request
+        :heavy_check_mark: it is not a question regarding development or a local installation issues
+        :heavy_check_mark: this is not a shout out for help, because you have no clue what you are doing ;-)
+
+        If you think you indeed found a bug, please continue:
+
+        :heavy_check_mark: check that the bug is not already reported in the repository
+        :heavy_check_mark: make sure it is 'reproducible'
+        :heavy_check_mark: make sure that every log you have regarding this bug is added to your issue to help developers solve it
+        :heavy_check_mark: verify that you have used the latest released version before filing this bug issue
+        :heavy_check_mark: please write your issue in English
+  - type: input
+    id: minvws-repository
+    attributes:
+      label: Which repository is this bug about
+      placeholder: 'e.g. minvws/nl-rdo-manon'
+    validations:
+      required: true
+  - type: textarea
+    id: bug-env-information
+    attributes:
+      label: Environment
+      value: |
+        - Installation method: [e.g. source, package]
+        - Operating system (if you're unsure: `cat /etc/os-release` ): [e.g. debian 10.4, ubuntu 20.04]
+        - Database + version:  [e.g. postgresql 9.3, mysql 5.7, mariadb 10.3]
+        - Browser + version: [e.g. chrome 83, safari 14, firefox 105]
+    validations:
+      required: true
+  - type: textarea
+    id: bug-actual-behaviour
+    attributes:
+      label: Actual behaviour
+      description: Describe the actual behaviour.
+    validations:
+      required: true
+  - type: textarea
+    id: bug-expected-behaviour
+    attributes:
+      label: Expected behaviour
+      description: Describe the expected behaviour.
+    validations:
+      required: true
+  - type: textarea
+    id: bug-steps-reproduction
+    attributes:
+      label: Steps to reproduce the behaviour
+    validations:
+      required: true
