@@ -8,7 +8,7 @@ Submit your findings via the Dutch Government GOV-CERT:
 
         https://www.ncsc.nl/contact/kwetsbaarheid-melden
 
-And reference the "MinVWS/CIO-office, Corona security response" in your report.
+And reference the "MinVWS/CIO-office, iRealisatie" in your report.
 
 Please do not publicly disclose these details without contacting us first. In return we will
 investigate all received vulnerability reports and, where needed, will take appropriate action
