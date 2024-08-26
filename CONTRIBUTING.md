@@ -2,7 +2,7 @@
  
 ## Code of Conduct
  
-All members of the project community must abide by the [Code of Conduct](https://github.com/minvws/.github/blob/master/CODE_OF_CONDUCT.md).
+All members of the project community must abide by the [Code of Conduct](https://github.com/minvws/.github/blob/main/CODE_OF_CONDUCT.md).
 Only by respecting each other we can develop a productive, collaborative community.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by filing a complaint at https://www.government.nl/contact/making-a-complaint and/or contacting a project maintainer. 
  
