@@ -37,13 +37,3 @@ Warranties by the Contributor
 Remaining provisions
 *	Dutch law applies to this licence agreement.
 *	Exclusively the judge in The Hague is competent to hear disputes in connection with this licence agreement.
-
-
-Signature:
-
-Name:
-
-Email address:
-
-GitHub username:
-
