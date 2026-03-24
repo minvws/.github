@@ -12,6 +12,6 @@ Add any other relevant context here.
 - [ ] Test cases are added or updated where needed
 - [ ] I've read the [contributing document](https://github.com/minvws/.github/blob/main/CONTRIBUTING.md)
 - [ ] I've read and understand the [Code of Conduct](https://github.com/minvws/.github/blob/main/CODE_OF_CONDUCT.md)
-- [ ] I've signed off all commits in this pull request in accordance with the [Developer Certificate of Origin (DCO)](https://developercertificate.org/)
+- [ ] I've signed off all commits in this pull request in accordance with the [Developer Certificate of Origin (DCO)](https://github.com/minvws/.github/blob/main/CONTRIBUTING.md)
 
 > Tip: use `git commit -s` to add the required `Signed-off-by:` line to each commit.
